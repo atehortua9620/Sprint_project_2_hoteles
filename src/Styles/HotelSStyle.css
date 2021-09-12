@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding:0;
+}
+
+.hotelesTodos{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin-top: 80px;
+    background-color:white;
+}

@@ -1,0 +1,61 @@
+.Hotelschet{
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    justify-content: space-around;
+  
+    color: white;
+    border: solid yellow 2px;
+    background-color: rgb(8, 8, 238);
+    height: 800px;
+    width: 300px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+    margin-top: 30px;
+    border-radius: 5% ;
+    box-shadow: -10px 10px 15px 2px black;
+    
+}
+.imagenes_hot{
+    width: 100%;
+    margin-top: 20px;
+    
+}
+h3{
+    margin-top: 10px;
+    color: black;
+}
+.barra{
+    height: 50px;
+    width: 100%;
+    background-color:white;
+    border: 1px solid yellow;
+    
+}
+h2{
+    color:black;
+}
+
+.fechas_design{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    color: black;
+    background-color: white;
+    height: 80px;
+    border-color: solid 1px yellow ;
+}
+
+.iconDate{
+
+    height: 30px;
+    display: flex;
+    position: relative;
+
+
+
+}

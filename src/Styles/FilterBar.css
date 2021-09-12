@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.filterbarS{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    height: 120px;
+    background-color: orangered;
+    box-shadow: 0 5px 20px 10px ;
+    /* border:solid 3p; */
+}
+.filtroinput{
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    height: 40px;
+    width: 150px;
+    border: solid 2px yellow;
+    background-color:white;
+    cursor: pointer;
+    border-radius: 20%;
+
+}
+.Boton{
+    background-color:yellow;
+    border:2px solid  white;
+    color: black; 
+}
+.Boton:hover{
+
+    background-color:blue;
+    color :white; 
+}
